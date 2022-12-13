@@ -1,1 +1,0 @@
-Esse é um programa para verificar se as carteiras de motorista e as autorizações para dirigir do IBGE estão em dia, invés de procurar um a um, basta digitar os siapes separados por virgulas no arquivo "siapes", por exemplo, "1111111,4444444,9999999" e colocar o arquivo excel do sistema nessa pasta.
